@@ -3,9 +3,9 @@
 --
 进入\addons\sourcemod\configs\admins_simple.ini文件txt格式打开
 
-在最下变添加 "STEAM_0:0:xxxxxxxx"	"99:z"  注：需要双键号概括你的id跟权限码！
+在最下面空区添加 "STEAM_0:0:xxxxxxxx"	"99:z"  注：需要双键号概括你的id跟权限码！
 
-"STEAM_0:0:xxxxxxxx"为你的steamID 
+【"STEAM_0:0:xxxxxxxx"】为你的steamID 
 
 查询链接推荐：https://steamid.io/lookup/
 
