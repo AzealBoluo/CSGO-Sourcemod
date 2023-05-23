@@ -20,3 +20,9 @@ Glove【手套】Weapon【武器菜单】Knife【刀具选项】
 
 查询链接推荐：https://steamid.io/lookup/ 
 复制自己的steam主页URL查询，最上面显示的就是你steamid 
+
+让服务器允许全部插件
+--
+进入\addons\sourcemod\configs\core.cfg中的内容
+"FollowCSGOServerGuidelines" "Yes" 修改成 "No"
+可以无视，我帮你们已经改掉了 :D
