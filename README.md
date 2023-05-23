@@ -19,4 +19,4 @@ Glove【手套】Weapon【武器菜单】Knife【刀具选项】
 "STEAM_0:0:xxxxxxxx"为你的steamID 
 
 查询链接推荐：https://steamid.io/lookup/ 
-复制自己的steam注意URL查询，最上面显示的就是你steamid 
+复制自己的steam主页URL查询，最上面显示的就是你steamid 
