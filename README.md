@@ -1,4 +1,6 @@
 # CSGO-Sourcemod
+Sourcemod插件，本人配合SteamCmd使用
+--
 指令
 --
 //【,】逗号-!Ws-绑定武器菜单 
