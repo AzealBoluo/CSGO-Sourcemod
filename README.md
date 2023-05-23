@@ -1,4 +1,8 @@
 # CSGO-Sourcemod
+指令
+--
+//【,】逗号-!Ws-绑定武器菜单 //【.】句号-!Knife-绑定刀具选择
+聊天框输入!Glove-手套选择
 整合包插件列表
 --
 Glove【手套】，Weapon【武器菜单】，Knife【刀具选项】
