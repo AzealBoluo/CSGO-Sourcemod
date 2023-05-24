@@ -17,5 +17,5 @@ Glove【手套】Weapon【武器菜单】Knife【刀具选项】
 --
 Glove【手套】，Weapon【武器菜单】，Knife【刀具选项】
 
-已内置自动更新插件
+已内置自动更新插件！
 --
