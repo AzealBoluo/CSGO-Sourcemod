@@ -1,5 +1,3 @@
-Sourcemod插件，本人配合SteamCmd使用
---
 CSGO-Sourcemod换肤插件汉化版
 --
 Glove【手套】换肤拥有Seed【模板】选项
